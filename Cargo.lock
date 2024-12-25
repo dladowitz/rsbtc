@@ -7,6 +7,10 @@ name = "btc_lib"
 version = "0.1.0"
 
 [[package]]
+name = "hello_world"
+version = "0.1.0"
+
+[[package]]
 name = "miner"
 version = "0.1.0"
 
